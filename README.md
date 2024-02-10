@@ -55,4 +55,8 @@ This is where we will keep all of the information about our project in one place
 * Financial Literacy Hack: Vanguard Challenge:
 *     A financial literacy app targeted at young adults, offering interactive modules on topics like budgeting, saving, investing, and retirement planning, all presented in a gamified format to enhance engagement and learning.
 
-
+**Code and Programming Languages for our Project**
+* React
+* JavaScript
+* HTML
+* CSS
